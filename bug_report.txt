@@ -1,1 +1,5 @@
-
+Title
+Steps to reproduce
+Expected and actual results
+Environment
+Attachments
