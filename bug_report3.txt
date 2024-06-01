@@ -1,0 +1,6 @@
+bug report for the 'second branch'
+Title
+Steps to reproduce
+Expected and actual results
+Environment
+Attachments
